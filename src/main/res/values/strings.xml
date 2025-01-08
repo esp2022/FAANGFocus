@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FAANG Focus</string>
+    <string name="app_overview">Welcome to FAANG Focus! Discover insights about leading tech companies, including their culture, employee benefits, and more.</string>
+    <string name="selection_prompt">Select a company you want to work for from the below list</string>
+    <string name="company_image_desc">company_image_desc</string>
+    <string-array name="faang_companies">
+        <item>Facebook</item>
+        <item>Amazon</item>
+        <item>Apple</item>
+        <item>Netflix</item>
+        <item>Google</item>
+    </string-array>
+</resources>
